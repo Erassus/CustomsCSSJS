@@ -8,4 +8,5 @@
  * @license   GNU General Public License https://www.gnu.de/documents/gpl-2.0.en.html
  */
 
-cssjs('backend_js'); 
+cssjs('frontend_js'); 
+
